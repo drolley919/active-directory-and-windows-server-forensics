@@ -118,14 +118,3 @@ Active Directory environments are critical infrastructure components within ente
 Regular auditing of users, groups, and administrative privileges is essential to maintaining a secure domain environment.
 
 ---
-
-## Author
-
-**Devin Rolley**
-
-- M.S. Cybersecurity Management & Policy
-- U.S. Navy Veteran
-- Digital Forensics & Incident Response Student
-- Governance, Risk, and Compliance (GRC) Practitioner
-
----
